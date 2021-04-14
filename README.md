@@ -2,7 +2,7 @@
 
 ```
 This repository contains the basic PyTorch codes required for a beginner in PyTorch to get started.
-Feel free to play around with the Notebooks.
+Feel free to play around with the Notebooks. More modules coming soon...
 ```
 
 ## ✨ Demo
