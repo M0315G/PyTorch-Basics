@@ -1,26 +1,15 @@
 <h1 align="center">PyTorch Basics</h1>
 
-`This repository contains the basic PyTorch codes required for a beginner in PyTorch to get started. Feel free to play around with the Notebooks.`
+```sh This repository contains the basic PyTorch codes required for a beginner in PyTorch to get started. Feel free to play around with the Notebooks.```
 
 ## ✨ Demo
-
-To try it, 
-
-Go to the website:
-
-```sh
-https://m0315g.github.io/picture-in-picture-mode/
-```
-Click on the `Button - Screen Capture`, to capture the screen you want to view in Picture-In-Picture Mode.
-
-Once done, click on `Button - Start`, to start your selcted window in Picture-In-Picture mode. Yayy! 🎉🎉
 
 
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br /> Feel free to check
-[issues page](https://github.com/M0315G/picture-in-picture-mode/issues) if you want to
+[issues page](https://github.com/M0315G/PyTorch-Basics/issues) if you want to
 contribute.<br /> To contribute, follow these steps:
 
 1. Fork this repository.
