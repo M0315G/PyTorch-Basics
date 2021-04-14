@@ -1,7 +1,8 @@
 <h1 align="center">PyTorch Basics</h1>
 
 ```
-This repository contains the basic PyTorch codes required for a beginner in PyTorch to get started. Feel free to play around with the Notebooks.
+This repository contains the basic PyTorch codes required for a beginner in PyTorch to get started.
+Feel free to play around with the Notebooks.
 ```
 
 ## ✨ Demo
