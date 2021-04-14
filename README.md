@@ -7,6 +7,13 @@ Feel free to play around with the Notebooks. More modules coming soon...
 
 ## ✨ Demo
 
+All the code in the repository is divided into Sections which are sequential in order. But if you have a know-how already, feel free to Jump to any section of your Choice.
+
+### Sections:
+#### 1️⃣ - Getting started with PyTorch
+#### 2️⃣ - Building a Neural Network
+#### 3️⃣ - Regression and Classification
+#### 4️⃣ - Implementing Convolutional Neural Networks
 
 
 ## 🤝 Contributing
